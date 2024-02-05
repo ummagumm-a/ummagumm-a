@@ -8,7 +8,7 @@
   Headless-AD - a generalization of Algorithm Distillation to variable action spaces.
   <br>
   <b>Code</b>: ...  
-  <li><a href="https://openreview.net/forum?id=0GpMf9UeI3G" target="blank">Understanding the Effectiveness of Cross-Domain Contrastive Unsupervised Domain Adaptation</a></li>
+  <li><a href="https://openreview.net/forum?id=0GpMf9UeI3G" target="blank">Understanding the Effectiveness of Cross-Domain Contrastive Unsupervised Domain Adaptation.</a></li>
   What is important in the application of Contrastive Loss in Unsupervised Domain Adaptation
   <br>
   <b>Code</b>: <a href="https://github.com/ummagumm-a/cross_domain_contrastive_uda" target="blank">cross_domain_contrastive_uda</a>  
