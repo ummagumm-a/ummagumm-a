@@ -1,5 +1,5 @@
 <h1 align="center">I'm Slava ✌️</h1>
-<h3 align="center">And I am an RL researcher</h3>
+<h3 align="center">And I am an AI researcher</h3>
 
 <h2 align="left">Selected Works</h3>
 
