@@ -4,6 +4,10 @@
 <h2 align="left">Papers I wrote the code for</h2>
 
 <ul>
+  <li><a href="https://arxiv.org/pdf/2505.18706?" target="blank">Steering LLM Reasoning Through Bias-Only Adaptation</a> and<br><a href="https://arxiv.org/pdf/2509.06608?" target="blank">Small Vectors, Big Effects: a Mechanistic Study of RL-Induced Reasoning via Steering Vectors</a></li>
+  RL-trained steering vectors match full fine-tuning while remaining interpretable – they suppress languages, appear as first-token substitution, avoid attention-mediated effects, transfer across models, compose across layers, and more.
+  <br>
+  <b>Code</b>: <a href="https://github.com/corl-team/steering-reasoning" target="blank">steering-reasoning</a> 
   <li><a href="https://arxiv.org/pdf/2312.13327.pdf" target="blank">In-Context Reinforcement Learning for Variable Action Spaces</a></li>
   Headless-AD - a generalization of Algorithm Distillation to variable action spaces.
   <br>
