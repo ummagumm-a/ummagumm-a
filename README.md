@@ -1,7 +1,7 @@
 <h1 align="center">I'm Slava ✌️</h1>
 <h3 align="center">And I am an AI researcher</h3>
 
-<h2 align="left">Selected Works</h2>
+<h2 align="left">Papers I wrote the code for</h2>
 
 <ul>
   <li><a href="https://arxiv.org/pdf/2312.13327.pdf" target="blank">In-Context Reinforcement Learning for Variable Action Spaces</a></li>
@@ -16,20 +16,25 @@
 
 <h3 align="left">My contacts</h3>
 
-<div align="left" style="display:flex; align-items:center; gap:12px;">
-  <a href="https://t.me/ummagumm_a" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+<div align="left"
+     style="display:flex;align-items:center;gap:12px;margin:0;font-size:0;line-height:0;">
+  <a href="https://t.me/ummagumm_a" target="_blank" rel="noopener noreferrer"
+     style="text-decoration:none;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/ffffff" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/0b0b0b" />
-      <img alt="Telegram" height="30" width="40" src="https://cdn.simpleicons.org/telegram/0b0b0b" />
+      <img alt="Telegram" height="30" width="30"
+           src="https://cdn.simpleicons.org/telegram/0b0b0b" />
     </picture>
   </a>
 
-  <a href="https://x.com/ummagumm_a" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <a href="https://x.com/ummagumm_a" target="_blank" rel="noopener noreferrer"
+     style="text-decoration:none;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/0b0b0b" />
-      <img alt="X (Twitter)" height="30" width="40" src="https://cdn.simpleicons.org/x/0b0b0b" />
+      <img alt="X (Twitter)" height="30" width="30"
+           src="https://cdn.simpleicons.org/x/0b0b0b" />
     </picture>
   </a>
 </div>
